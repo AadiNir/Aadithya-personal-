@@ -1,0 +1,112 @@
+.topcontainer{
+  background-color: #24A19C;
+}
+.middle-container{
+  background-color: #FAEEE7;
+  padding: 3%;
+  color: black
+
+}
+body{
+  margin:0;
+
+  font-family: 'Gloria Hallelujah', cursive;
+  color: white;
+
+}
+h1{
+  font-size: 90px;
+}
+.topcontainer{
+  text-align:center;
+}
+.middlecontainer {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+
+
+
+}
+.bottom-container{
+text-align: center;
+background-color: #D96098;
+padding:1%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.mountain{
+  position: relative;
+  right: 50px;
+}
+.cloud{
+
+  position: relative;
+  bottom:260px;
+
+}
+.cloud1{
+  position: relative;
+  left:300px;
+  top:50px;
+}
+.skill-row1 {
+  position: relative;
+
+}
+.order{
+  position:relative;
+  left:250px;
+  bottom:150px;
+}
+
+.hobbies{
+  position:relative;
+  left:1500px;
+}
+
+.two{
+  position:relative;
+  bottom:200px;
+  width:70%;
+}
+.skills{
+  color:black;
+}
+.contact-me{
+  text-align: center;
+}
+.about{
+  position:relative;
+  left:250px;
+  bottom:150px;
+}
+.btn {
+  background: #24A19C;
+  background-image: -webkit-linear-gradient(top, #24A19C, #2980b9);
+  background-image: -moz-linear-gradient(top, #24A19C, #2980b9);
+  background-image: -ms-linear-gradient(top, #24A19C, #2980b9);
+  background-image: -o-linear-gradient(top, #24A19C, #2980b9);
+  background-image: linear-gradient(to bottom, #24A19C, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
